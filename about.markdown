@@ -8,9 +8,9 @@ permalink: /about/
 Hola soy ***Gabriel*** y en mi tiempo libre me gusta jugar a juegos, ultimamente le dedico tiempo al ***Clash Royale***. Es un juego que consiste en derribar las torres enemigas desplegando tropas en un campo de batalla. Es un **juego** muy entretenido en el que tienes que emplear toda tu táctica y estrategia en el campo.
 A si que he decidido crear mi página sobre el ***Clash Royale***, mas tarde hablaremos de ello.
 
-![jekyll]({{ site.baseurl }}assets/img/imagen2.jpg)
+![jekyll]({{ site.baseurl }}/assets/img/imagen2.jpg)
 
 En cuanto a mi, el **futbol** es mi *pasión*. Desde los 5 años llevo jugando al **futbol** y ni un dia me he cansado de él. También me gusta pasar el tiempo con la ***familia*** y ***amigos***. Soy un chico **amigable**, **sociable**, **émpatico** y **cariñoso**. Sobre todo ***trabajador***.
 
-![jekyll]({{ site.baseurl }}assets/img/imagen1.webp)
+![jekyll]({{ site.baseurl }}/assets/img/imagen1.webp)
 
