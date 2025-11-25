@@ -1,1 +1,310 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://10.0.22.215:4000/MyBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://10.0.22.215:4000/MyBlog/" rel="alternate" type="text/html" /><updated>2025-11-25T11:48:06+01:00</updated><id>http://10.0.22.215:4000/MyBlog/feed.xml</id><title type="html">Actividad 2.1</title><subtitle>Este es el blog que voy a crear para la tarea de la Actividad2.1, este es mi primer blog del módulo de Implantacion de Aplicaciones Web (IAW).</subtitle></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://10.0.22.215:4000/MyBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://10.0.22.215:4000/MyBlog/" rel="alternate" type="text/html" /><updated>2025-11-25T11:59:08+01:00</updated><id>http://10.0.22.215:4000/MyBlog/feed.xml</id><title type="html">Actividad 2.1</title><subtitle>Este es el blog que voy a crear para la tarea de la Actividad2.1, este es mi primer blog del módulo de Implantacion de Aplicaciones Web (IAW).</subtitle><entry><title type="html">Cómo jugar Clash Royale: guía completa para entender cofres, trofeos y progresión</title><link href="http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1.html" rel="alternate" type="text/html" title="Cómo jugar Clash Royale: guía completa para entender cofres, trofeos y progresión" /><published>2025-11-25T00:00:00+01:00</published><updated>2025-11-25T00:00:00+01:00</updated><id>http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1</id><content type="html" xml:base="http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1.html"><![CDATA[<h1 id="-cómo-jugar-clash-royale-guía-completa-para-principiantes">🏆 Cómo jugar Clash Royale: guía completa para principiantes</h1>
+
+<p>Clash Royale es uno de los juegos móviles más populares del mundo gracias a su mezcla de <strong>estrategia en tiempo real</strong>, <strong>cartas coleccionables</strong> y <strong>batallas rápidas 1vs1</strong>.<br />
+Si estás empezando o quieres entender mejor cómo progresar, esta guía te explicará todo lo esencial: <strong>trofeos, cofres, arenas, mazos y cartas</strong>.</p>
+
+<hr />
+
+<h2 id="-cómo-se-juega-la-base-del-combate">🎮 Cómo se juega: la base del combate</h2>
+
+<p>Cada partida de Clash Royale es un duelo entre dos jugadores donde el objetivo es <strong>destruir más torres que tu rival</strong> en un tiempo limitado.<br />
+El campo de batalla se divide en dos carriles y cada jugador dispone de:</p>
+
+<ul>
+  <li><strong>2 Torres de Arena</strong> (izquierda y derecha)</li>
+  <li><strong>1 Torre del Rey</strong></li>
+</ul>
+
+<p>Para ganar necesitas:</p>
+<ul>
+  <li>Destruir <strong>1 torre más</strong> que el oponente, o</li>
+  <li>Derribar la <strong>Torre del Rey</strong>, lo que da una victoria automática (<em>3 coronas</em>).</li>
+</ul>
+
+<h3 id="-mecánicas-principales">🎯 Mecánicas principales</h3>
+<ul>
+  <li>Utilizas <strong>cartas</strong> que se despliegan en la arena.</li>
+  <li>Cada carta cuesta <strong>elixir</strong>, un recurso que se regenera con el tiempo.</li>
+  <li>El objetivo es <strong>gestionar el elixir</strong>, jugar de forma inteligente y adaptarte al mazo rival.</li>
+</ul>
+
+<h2><img src="/MyBlogassets/img/imagen6.webp" alt="jekyll" /></h2>
+
+<h2 id="-cartas-y-mazos-el-corazón-del-juego">🃏 Cartas y mazos: el corazón del juego</h2>
+
+<p>En Clash Royale, las cartas representan tropas, edificios y hechizos.</p>
+
+<h3 id="-tipos-de-cartas">⭐ Tipos de cartas</h3>
+<ul>
+  <li><strong>Comunes</strong></li>
+  <li><strong>Especiales</strong></li>
+  <li><strong>Épicas</strong></li>
+  <li><strong>Legendarias</strong></li>
+  <li><strong>Campeones</strong></li>
+</ul>
+
+<p>Cada una tiene diferentes niveles de rareza y poder. A medida que subes de nivel tus cartas, tu mazo se vuelve más fuerte.</p>
+
+<h3 id="️-construcción-del-mazo">⚒️ Construcción del mazo</h3>
+<p>Un mazo está compuesto por <strong>8 cartas</strong>.</p>
+
+<p>Recomendaciones básicas:</p>
+<ul>
+  <li>Incluye <strong>daño directo</strong> (ej: Bola de Fuego).</li>
+  <li>Ten al menos <strong>una carta defensiva</strong>.</li>
+  <li>Mantén un <strong>coste de elixir equilibrado</strong> (no muy alto).</li>
+  <li>Evita repetir cartas con funciones idénticas.</li>
+</ul>
+
+<p><img src="/MyBlogassets/img/imagen7.webp" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="-sistema-de-trofeos-y-arenas">🏅 Sistema de trofeos y arenas</h2>
+
+<p>Los <strong>trofeos</strong> determinan contra quién juegas y en qué <strong>arena</strong> te encuentras.<br />
+Ganas trofeos al vencer y los pierdes al ser derrotado.</p>
+
+<h3 id="-arenas">🌍 Arenas</h3>
+<p>Las arenas se desbloquean al alcanzar ciertos rangos de trofeos:</p>
+
+<ul>
+  <li>Arena 1: 500 trofeos</li>
+  <li>Arena 2: 1000 trofeos</li>
+  <li>…</li>
+  <li>Arena Legendaria: 5000+ trofeos</li>
+</ul>
+
+<p>Cuanto más alta sea tu arena:<br />
+✔️ mejores recompensas<br />
+✔️ cartas más avanzadas<br />
+✔️ rivales más fuertes</p>
+
+<p><img src="/MyBlogassets/img/imagen9.jpg" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="-cofres-la-clave-para-conseguir-cartas">🎁 Cofres: la clave para conseguir cartas</h2>
+
+<p>Los <strong>cofres</strong> son la principal forma de obtener cartas y oro.</p>
+
+<h3 id="tipos-de-cofres">Tipos de cofres</h3>
+<ul>
+  <li><strong>Cofre de Plata</strong>: común, rápido de abrir.</li>
+  <li><strong>Cofre de Oro</strong>: más recompensas.</li>
+  <li><strong>Cofre Gigante</strong>: muchas cartas comunes.</li>
+  <li><strong>Cofre Mágico</strong>: muchas especiales y épicas.</li>
+  <li><strong>Cofre Súper Mágico</strong>: enormes cantidades de cartas.</li>
+  <li><strong>Cofre Legendario</strong>: garantiza una carta legendaria.</li>
+</ul>
+
+<h3 id="-cómo-se-consiguen">📦 Cómo se consiguen</h3>
+<ul>
+  <li>Ganando batallas</li>
+  <li>En recompensas de temporadas</li>
+  <li>En misiones y eventos</li>
+  <li>En el Camino de Trofeos</li>
+</ul>
+
+<h3 id="-tiempo-de-apertura">⏳ Tiempo de apertura</h3>
+<p>Cada cofre tiene un tiempo específico: de 3 horas a 24 horas, o puedes usar <strong>gemas</strong> para acelerarlo.</p>
+
+<p><img src="/MyBlogassets/img/imagen8.jpg" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="️-camino-de-trofeos-y-ligas">🛡️ Camino de Trofeos y ligas</h2>
+
+<p>El juego ofrece un progreso sistemático llamado <strong>Camino de Trofeos</strong>, donde desbloqueas:</p>
+
+<ul>
+  <li>Cofres especiales</li>
+  <li>Nuevas cartas</li>
+  <li>Emotes</li>
+  <li>Oro y comodines</li>
+  <li>Arenas exclusivas</li>
+</ul>
+
+<p>Cuando alcanzas cierto nivel, entras en el sistema de <strong>ligas</strong>, donde compites por rangos cada temporada.</p>
+
+<p><img src="/MyBlogassets/img/imagen10.webp" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="-consejos-para-mejorar-rápido">🔥 Consejos para mejorar rápido</h2>
+
+<ul>
+  <li><strong>Equilibra tu mazo</strong>: evita subir cartas que no uses.</li>
+  <li><strong>No gastes gemas en cofres pequeños</strong>: guárdalas para pases o aperturas importantes.</li>
+  <li><strong>Mira repeticiones</strong> y aprende de los mejores.</li>
+  <li><strong>No subas demasiado rápido de arena</strong> si tus cartas no acompañan.</li>
+  <li>
+    <h2 id="defiende-primero-ataca-después-muchos-principiantes-gastan-el-elixir-sin-pensar"><strong>Defiende primero, ataca después</strong>: muchos principiantes gastan el elixir sin pensar.</h2>
+  </li>
+</ul>]]></content><author><name>Gabriel</name></author><category term="videojuegos" /><category term="clash-royale" /><category term="guias" /><category term="clash-royale" /><category term="mobile-gaming" /><category term="supercell" /><category term="guia" /><summary type="html"><![CDATA[🏆 Cómo jugar Clash Royale: guía completa para principiantes]]></summary></entry><entry><title type="html">El Mundial de Clash Royale: historia, formato y evolución de la CRL</title><link href="http://10.0.22.215:4000/MyBlog/clash-royale/esports/competitivo/2025/11/25/post2.html" rel="alternate" type="text/html" title="El Mundial de Clash Royale: historia, formato y evolución de la CRL" /><published>2025-11-25T00:00:00+01:00</published><updated>2025-11-25T00:00:00+01:00</updated><id>http://10.0.22.215:4000/MyBlog/clash-royale/esports/competitivo/2025/11/25/post2</id><content type="html" xml:base="http://10.0.22.215:4000/MyBlog/clash-royale/esports/competitivo/2025/11/25/post2.html"><![CDATA[<h1 id="-el-mundial-de-clash-royale-la-cima-del-competitivo-móvil">🏆 El Mundial de Clash Royale: la cima del competitivo móvil</h1>
+
+<p>El <strong>Mundial de Clash Royale</strong>, conocido oficialmente como las <strong>World Finals de la Clash Royale League (CRL)</strong>, es uno de los eventos más importantes del <em>esports móvil</em>. Desde su debut, ha reunido a los mejores jugadores del mundo en un escenario donde la estrategia, la mentalidad y la precisión se convierten en factores decisivos.</p>
+
+<p>En este post repasamos su origen, cómo funciona el sistema competitivo y por qué se ha convertido en un fenómeno global.</p>
+
+<hr />
+
+<h2 id="-los-orígenes-del-competitivo-de-clash-royale">🌍 Los orígenes del competitivo de Clash Royale</h2>
+
+<p>Desde su lanzamiento en 2016, Clash Royale demostró tener un enorme potencial competitivo: partidas rápidas, decisiones tácticas y un sistema de cartas que permite creatividad sin límites.</p>
+
+<p>Supercell decidió formalizar su escena profesional en 2018 con la creación de la <strong>Clash Royale League (CRL)</strong>, una liga internacional con regiones como:</p>
+
+<ul>
+  <li><strong>CRL Europa</strong></li>
+  <li><strong>CRL Norteamérica</strong></li>
+  <li><strong>CRL Latinoamérica</strong></li>
+  <li><strong>CRL Asia</strong></li>
+  <li><strong>CRL China</strong></li>
+</ul>
+
+<p>Los mejores equipos y jugadores del año competían durante la temporada para clasificarse a las <strong>World Finals</strong>, el evento culminante del circuito.</p>
+
+<p><img src="/MyBlogassets/img/imagen14.jpg" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="️-las-world-finals-el-escenario-definitivo">🏟️ Las World Finals: el escenario definitivo</h2>
+
+<p>El Mundial suele celebrarse a finales de año y reúne a los <strong>mejores jugadores o equipos</strong>, dependiendo del formato vigente.</p>
+
+<h3 id="-qué-se-necesita-para-clasificarse">🎯 ¿Qué se necesita para clasificarse?</h3>
+<ul>
+  <li>Ser de los mejores jugadores del ranking oficial.</li>
+  <li>Ganar o destacar en las competiciones regionales.</li>
+  <li>En algunos años, pasar por clasificatorias globales.</li>
+</ul>
+
+<p>Supercell ha modificado el formato a lo largo de los años, pasando de <strong>competición por equipos</strong>, a <strong>competición individual</strong>, y más recientemente a un <strong>sistema híbrido basado en puntos</strong> durante toda la temporada.</p>
+
+<p><img src="/MyBlogassets/img/imagen11.jpg" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="️-formatos-más-comunes-del-mundial">⚔️ Formatos más comunes del mundial</h2>
+
+<p>Aunque ha variado, estos son los formatos más habituales:</p>
+
+<h3 id="-1v1-duels">🟦 <strong>1v1 Duels</strong></h3>
+<p>Los jugadores deben usar varios mazos diferentes.<br />
+Gana quien resulte vencedor en dos de tres enfrentamientos.</p>
+
+<h3 id="-best-of-5--best-of-7">🟥 <strong>Best of 5 / Best of 7</strong></h3>
+<p>Series al mejor de 5 o 7 partidas según la importancia del enfrentamiento.</p>
+
+<h3 id="-mazos-ocultos-o-seleccionados-al-momento">🟩 <strong>Mazos ocultos o seleccionados al momento</strong></h3>
+<p>Aumenta la imprevisibilidad, premiando la creatividad y la lectura del rival.</p>
+
+<h3 id="-eliminación-simple-u-doble">🟨 <strong>Eliminación simple u doble</strong></h3>
+<ul>
+  <li>Eliminación simple: perder significa quedar fuera.</li>
+  <li>Eliminación doble: los jugadores pueden recuperarse en el “lower bracket”.</li>
+</ul>
+
+<hr />
+
+<h2 id="-momentos-icónicos-del-mundial">🧨 Momentos icónicos del Mundial</h2>
+
+<p>A lo largo de sus ediciones, el Mundial de CRL nos ha dejado:</p>
+
+<ul>
+  <li>Jugadas memorables que cambiaron partidas en los últimos segundos.</li>
+  <li>Upsets históricos donde jugadores desconocidos derrotaron a favoritos.</li>
+  <li>Finales épicas entre regiones, especialmente entre <strong>Asia</strong>, <strong>Europa</strong> y <strong>Latinoamérica</strong>.</li>
+  <li>El ascenso de grandes figuras reconocidas internacionalmente.</li>
+</ul>
+
+<p>Supercell ha convertido cada Mundial en un espectáculo audiovisual con escenarios temáticos, producción profesional y millones de espectadores en directo.</p>
+
+<p><img src="/MyBlogassets/img/imagen12.jpeg" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="-premios-y-crecimiento">💰 Premios y crecimiento</h2>
+
+<p>Las World Finals han llegado a repartir <strong>centenas de miles de dólares</strong> en premios y generar audiencias masivas en plataformas como YouTube y Twitch.</p>
+
+<p>El ecosistema competitivo se ha ampliado con:</p>
+
+<ul>
+  <li>Clasificatorias mensuales</li>
+  <li>Eventos presenciales</li>
+  <li>Desafíos dentro del propio juego</li>
+  <li>Apoyo a creadores y comunidades regionales</li>
+</ul>
+
+<p>El resultado es un circuito profesional que se mantiene activo año tras año.</p>
+
+<p><img src="/MyBlogassets/img/imagen13.png" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="-el-futuro-del-mundial-de-clash-royale">🔮 El futuro del Mundial de Clash Royale</h2>
+
+<p>Con nuevas actualizaciones constantes y un enfoque reforzado en el modo competitivo, el Mundial seguirá consolidándose como uno de los eventos más importantes del <em>esports móvil</em>.<br />
+Supercell ha mostrado interés en evolucionar el formato y ofrecer más oportunidades para que jugadores de todo el mundo puedan competir al más alto nivel.</p>
+
+<hr />
+
+<h2 id="-conclusión">🎯 Conclusión</h2>
+
+<p>El <strong>Mundial de Clash Royale</strong> no es solo un torneo: es la celebración definitiva del talento, la estrategia y la pasión por uno de los juegos móviles más exitosos jamás creados.<br />
+Cada edición reúne lo mejor del competitivo global y demuestra que el <em>mobile gaming</em> tiene una comunidad vibrante y llena de emoción.</p>]]></content><author><name>Gabriel</name></author><category term="clash-royale" /><category term="esports" /><category term="competitivo" /><category term="clash-royale" /><category term="esports" /><category term="supercell" /><category term="crl" /><category term="mundial" /><summary type="html"><![CDATA[🏆 El Mundial de Clash Royale: la cima del competitivo móvil]]></summary></entry><entry><title type="html">La tienda de Clash Royale y el formato del Pase de Batalla: ventajas y polémicas</title><link href="http://10.0.22.215:4000/MyBlog/clash-royale/economia-del-juego/tienda/2025/11/25/post3.html" rel="alternate" type="text/html" title="La tienda de Clash Royale y el formato del Pase de Batalla: ventajas y polémicas" /><published>2025-11-25T00:00:00+01:00</published><updated>2025-11-25T00:00:00+01:00</updated><id>http://10.0.22.215:4000/MyBlog/clash-royale/economia-del-juego/tienda/2025/11/25/post3</id><content type="html" xml:base="http://10.0.22.215:4000/MyBlog/clash-royale/economia-del-juego/tienda/2025/11/25/post3.html"><![CDATA[<h1 id="-la-tienda-de-clash-royale-y-el-formato-del-pase-de-batalla">🛒 La tienda de Clash Royale y el formato del Pase de Batalla</h1>
+
+<p>La <strong>tienda de Clash Royale</strong> es uno de los elementos clave del juego, ya que permite a los jugadores obtener <strong>cartas</strong>, <strong>oro</strong>, <strong>comodines</strong>, <strong>emotes</strong>, <strong>skins</strong> y otros recursos necesarios para progresar. Además, ofrece ofertas diarias que van cambiando y que suelen incluir paquetes con descuentos o recompensas exclusivas.</p>
+
+<p><img src="/MyBlogassets/img/imagen15.jpg" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="-el-pase-de-batalla-cómo-funciona">🎫 El Pase de Batalla: cómo funciona</h2>
+
+<p>El <strong>Pase Royale</strong> es una herramienta de progresión que se renueva cada temporada. Incluye recompensas como:</p>
+
+<ul>
+  <li>Cofres especiales</li>
+  <li>Oro y comodines</li>
+  <li>Aspectos de torre y gestos</li>
+  <li>Aceleradores de coronas</li>
+</ul>
+
+<p>Los jugadores progresan desbloqueando niveles conforme ganan coronas en sus partidas.</p>
+
+<p>El pase está dividido en dos caminos:</p>
+<ul>
+  <li><strong>Gratis</strong>, accesible para todos.</li>
+  <li><strong>De pago</strong>, con recompensas adicionales y ventajas exclusivas.</li>
+</ul>
+
+<p><img src="/MyBlogassets/img/imagen16.jpg" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="-polémicas-por-el-precio-y-los-cambios">💸 Polémicas por el precio y los cambios</h2>
+
+<p>Durante los años recientes, Supercell ha recibido críticas debido a:</p>
+
+<ul>
+  <li><strong>Aumento del precio del Pase de Batalla</strong>, especialmente en algunas regiones.</li>
+  <li>Inclusión de recompensas consideradas poco valiosas para el coste.</li>
+  <li>Cambios en la tienda que han introducido paquetes caros con ventajas significativas.</li>
+  <li>La percepción de que el sistema favorece a quienes gastan dinero, afectando al equilibrio competitivo.</li>
+</ul>
+
+<p>Aunque el juego sigue siendo <em>free-to-play</em>, una parte de la comunidad siente que la progresión gratuita es cada vez más lenta, generando debates constantes en redes y foros.</p>
+
+<p><img src="/MyBlogassets/img/imagen17.webp" alt="jekyll" /></p>
+
+<hr />
+
+<h2 id="-conclusión">🎯 Conclusión</h2>
+
+<p>La tienda y el Pase de Batalla son pilares del modelo económico de Clash Royale.<br />
+Ofrecen recompensas atractivas, pero también han generado <strong>controversia por sus precios</strong>, lo que mantiene una conversación abierta sobre el equilibrio entre monetización y experiencia del jugador.</p>
+
+<p>Si Supercell continúa ajustando estos sistemas, el reto será mantener satisfechos tanto a jugadores gratuitos como a quienes invierten en el juego.</p>]]></content><author><name>Gabriel</name></author><category term="clash-royale" /><category term="economia-del-juego" /><category term="tienda" /><category term="clash-royale" /><category term="pase-de-batalla" /><category term="tienda" /><category term="supercell" /><summary type="html"><![CDATA[🛒 La tienda de Clash Royale y el formato del Pase de Batalla]]></summary></entry></feed>
