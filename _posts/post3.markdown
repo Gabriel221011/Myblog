@@ -11,6 +11,8 @@ author: "Gabriel"
 
 La **tienda de Clash Royale** es uno de los elementos clave del juego, ya que permite a los jugadores obtener **cartas**, **oro**, **comodines**, **emotes**, **skins** y otros recursos necesarios para progresar. Además, ofrece ofertas diarias que van cambiando y que suelen incluir paquetes con descuentos o recompensas exclusivas.
 
+![jekyll]({{ site.baseurl }}assets/img/imagen15.jpg)
+
 ---
 
 ## 🎫 El Pase de Batalla: cómo funciona
@@ -28,6 +30,8 @@ El pase está dividido en dos caminos:
 - **Gratis**, accesible para todos.  
 - **De pago**, con recompensas adicionales y ventajas exclusivas.
 
+![jekyll]({{ site.baseurl }}assets/img/imagen16.jpg)
+
 ---
 
 ## 💸 Polémicas por el precio y los cambios
@@ -40,6 +44,8 @@ Durante los años recientes, Supercell ha recibido críticas debido a:
 - La percepción de que el sistema favorece a quienes gastan dinero, afectando al equilibrio competitivo.
 
 Aunque el juego sigue siendo *free-to-play*, una parte de la comunidad siente que la progresión gratuita es cada vez más lenta, generando debates constantes en redes y foros.
+
+![jekyll]({{ site.baseurl }}assets/img/imagen17.webp)
 
 ---
 
