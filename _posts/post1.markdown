@@ -31,6 +31,7 @@ Para ganar necesitas:
 - Cada carta cuesta **elixir**, un recurso que se regenera con el tiempo.  
 - El objetivo es **gestionar el elixir**, jugar de forma inteligente y adaptarte al mazo rival.
 
+![jekyll]({{ site.baseurl }}assets/img/imagen6.webp)
 ---
 
 ## 🃏 Cartas y mazos: el corazón del juego
@@ -55,6 +56,8 @@ Recomendaciones básicas:
 - Mantén un **coste de elixir equilibrado** (no muy alto).  
 - Evita repetir cartas con funciones idénticas.
 
+![jekyll]({{ site.baseurl }}assets/img/imagen7.webp)
+
 ---
 
 ## 🏅 Sistema de trofeos y arenas
@@ -74,6 +77,8 @@ Cuanto más alta sea tu arena:
 ✔️ mejores recompensas  
 ✔️ cartas más avanzadas  
 ✔️ rivales más fuertes
+
+![jekyll]({{ site.baseurl }}assets/img/imagen9.jpg)
 
 ---
 
@@ -98,6 +103,8 @@ Los **cofres** son la principal forma de obtener cartas y oro.
 ### ⏳ Tiempo de apertura
 Cada cofre tiene un tiempo específico: de 3 horas a 24 horas, o puedes usar **gemas** para acelerarlo.
 
+![jekyll]({{ site.baseurl }}assets/img/imagen8.jpg)
+
 ---
 
 ## 🛡️ Camino de Trofeos y ligas
@@ -112,6 +119,8 @@ El juego ofrece un progreso sistemático llamado **Camino de Trofeos**, donde de
 
 Cuando alcanzas cierto nivel, entras en el sistema de **ligas**, donde compites por rangos cada temporada.
 
+![jekyll]({{ site.baseurl }}assets/img/imagen10.webp)
+
 ---
 
 ## 🔥 Consejos para mejorar rápido
@@ -121,7 +130,6 @@ Cuando alcanzas cierto nivel, entras en el sistema de **ligas**, donde compites 
 - **Mira repeticiones** y aprende de los mejores.  
 - **No subas demasiado rápido de arena** si tus cartas no acompañan.  
 - **Defiende primero, ataca después**: muchos principiantes gastan el elixir sin pensar.
-
 ---
 
 
