@@ -29,6 +29,8 @@ Supercell decidió formalizar su escena profesional en 2018 con la creación de 
 
 Los mejores equipos y jugadores del año competían durante la temporada para clasificarse a las **World Finals**, el evento culminante del circuito.
 
+![jekyll]({{ site.baseurl }}assets/img/imagen14.jpg)
+
 ---
 
 ## 🏟️ Las World Finals: el escenario definitivo
@@ -41,6 +43,8 @@ El Mundial suele celebrarse a finales de año y reúne a los **mejores jugadores
 - En algunos años, pasar por clasificatorias globales.  
 
 Supercell ha modificado el formato a lo largo de los años, pasando de **competición por equipos**, a **competición individual**, y más recientemente a un **sistema híbrido basado en puntos** durante toda la temporada.
+
+![jekyll]({{ site.baseurl }}assets/img/imagen11.jpg)
 
 ---
 
@@ -75,6 +79,8 @@ A lo largo de sus ediciones, el Mundial de CRL nos ha dejado:
 
 Supercell ha convertido cada Mundial en un espectáculo audiovisual con escenarios temáticos, producción profesional y millones de espectadores en directo.
 
+![jekyll]({{ site.baseurl }}assets/img/imagen12.jpeg)
+
 ---
 
 ## 💰 Premios y crecimiento
@@ -89,6 +95,8 @@ El ecosistema competitivo se ha ampliado con:
 - Apoyo a creadores y comunidades regionales  
 
 El resultado es un circuito profesional que se mantiene activo año tras año.
+
+![jekyll]({{ site.baseurl }}assets/img/imagen13.png)
 
 ---
 
