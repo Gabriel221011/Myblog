@@ -1,29 +1,52 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-11-13 12:15:06 +0100
-categories: jekyll update
+title: "La tienda de Clash Royale y el formato del Pase de Batalla: ventajas y polémicas"
+date: 2025-01-01
+categories: [clash-royale, economia-del-juego, tienda]
+tags: [clash-royale, pase-de-batalla, tienda, supercell]
+author: "Gabriel"
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+# 🛒 La tienda de Clash Royale y el formato del Pase de Batalla
 
-`YEAR-MONTH-DAY-title.MARKUP`
+La **tienda de Clash Royale** es uno de los elementos clave del juego, ya que permite a los jugadores obtener **cartas**, **oro**, **comodines**, **emotes**, **skins** y otros recursos necesarios para progresar. Además, ofrece ofertas diarias que van cambiando y que suelen incluir paquetes con descuentos o recompensas exclusivas.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+---
 
-Jekyll also offers powerful support for code snippets:
+## 🎫 El Pase de Batalla: cómo funciona
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+El **Pase Royale** es una herramienta de progresión que se renueva cada temporada. Incluye recompensas como:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- Cofres especiales  
+- Oro y comodines  
+- Aspectos de torre y gestos  
+- Aceleradores de coronas  
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Los jugadores progresan desbloqueando niveles conforme ganan coronas en sus partidas.
+
+El pase está dividido en dos caminos:
+- **Gratis**, accesible para todos.  
+- **De pago**, con recompensas adicionales y ventajas exclusivas.
+
+---
+
+## 💸 Polémicas por el precio y los cambios
+
+Durante los años recientes, Supercell ha recibido críticas debido a:
+
+- **Aumento del precio del Pase de Batalla**, especialmente en algunas regiones.  
+- Inclusión de recompensas consideradas poco valiosas para el coste.  
+- Cambios en la tienda que han introducido paquetes caros con ventajas significativas.  
+- La percepción de que el sistema favorece a quienes gastan dinero, afectando al equilibrio competitivo.
+
+Aunque el juego sigue siendo *free-to-play*, una parte de la comunidad siente que la progresión gratuita es cada vez más lenta, generando debates constantes en redes y foros.
+
+---
+
+## 🎯 Conclusión
+
+La tienda y el Pase de Batalla son pilares del modelo económico de Clash Royale.  
+Ofrecen recompensas atractivas, pero también han generado **controversia por sus precios**, lo que mantiene una conversación abierta sobre el equilibrio entre monetización y experiencia del jugador.
+
+Si Supercell continúa ajustando estos sistemas, el reto será mantener satisfechos tanto a jugadores gratuitos como a quienes invierten en el juego.
+
