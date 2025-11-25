@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://10.0.22.215:4000/MyBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://10.0.22.215:4000/MyBlog/" rel="alternate" type="text/html" /><updated>2025-11-25T12:00:48+01:00</updated><id>http://10.0.22.215:4000/MyBlog/feed.xml</id><title type="html">Actividad 2.1</title><subtitle>Este es el blog que voy a crear para la tarea de la Actividad2.1, este es mi primer blog del módulo de Implantacion de Aplicaciones Web (IAW).</subtitle><entry><title type="html">Cómo jugar Clash Royale: guía completa para entender cofres, trofeos y progresión</title><link href="http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1.html" rel="alternate" type="text/html" title="Cómo jugar Clash Royale: guía completa para entender cofres, trofeos y progresión" /><published>2025-11-25T00:00:00+01:00</published><updated>2025-11-25T00:00:00+01:00</updated><id>http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1</id><content type="html" xml:base="http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1.html"><![CDATA[<h1 id="-cómo-jugar-clash-royale-guía-completa-para-principiantes">🏆 Cómo jugar Clash Royale: guía completa para principiantes</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://10.0.22.215:4000/MyBlog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://10.0.22.215:4000/MyBlog/" rel="alternate" type="text/html" /><updated>2025-11-25T12:07:07+01:00</updated><id>http://10.0.22.215:4000/MyBlog/feed.xml</id><title type="html">Actividad 2.1</title><subtitle>Este es el blog que voy a crear para la tarea de la Actividad2.1, este es mi primer blog del módulo de Implantacion de Aplicaciones Web (IAW).</subtitle><entry><title type="html">Cómo jugar Clash Royale: guía completa para entender cofres, trofeos y progresión</title><link href="http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1.html" rel="alternate" type="text/html" title="Cómo jugar Clash Royale: guía completa para entender cofres, trofeos y progresión" /><published>2025-11-25T00:00:00+01:00</published><updated>2025-11-25T00:00:00+01:00</updated><id>http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1</id><content type="html" xml:base="http://10.0.22.215:4000/MyBlog/videojuegos/clash-royale/guias/2025/11/25/post1.html"><![CDATA[<h1 id="-cómo-jugar-clash-royale-guía-completa-para-principiantes">🏆 Cómo jugar Clash Royale: guía completa para principiantes</h1>
 
 <p>Clash Royale es uno de los juegos móviles más populares del mundo gracias a su mezcla de <strong>estrategia en tiempo real</strong>, <strong>cartas coleccionables</strong> y <strong>batallas rápidas 1vs1</strong>.<br />
 Si estás empezando o quieres entender mejor cómo progresar, esta guía te explicará todo lo esencial: <strong>trofeos, cofres, arenas, mazos y cartas</strong>.</p>
@@ -28,7 +28,7 @@ El campo de batalla se divide en dos carriles y cada jugador dispone de:</p>
   <li>El objetivo es <strong>gestionar el elixir</strong>, jugar de forma inteligente y adaptarte al mazo rival.</li>
 </ul>
 
-<h2><img src="/MyBlogassets/img/imagen6.webp" alt="jekyll" /></h2>
+<h2><img src="/MyBlog/assets/img/imagen6.webp" alt="jekyll" /></h2>
 
 <h2 id="-cartas-y-mazos-el-corazón-del-juego">🃏 Cartas y mazos: el corazón del juego</h2>
 
@@ -56,7 +56,7 @@ El campo de batalla se divide en dos carriles y cada jugador dispone de:</p>
   <li>Evita repetir cartas con funciones idénticas.</li>
 </ul>
 
-<p><img src="/MyBlogassets/img/imagen7.webp" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen7.webp" alt="jekyll" /></p>
 
 <hr />
 
@@ -80,7 +80,7 @@ Ganas trofeos al vencer y los pierdes al ser derrotado.</p>
 ✔️ cartas más avanzadas<br />
 ✔️ rivales más fuertes</p>
 
-<p><img src="/MyBlogassets/img/imagen9.jpg" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen9.jpg" alt="jekyll" /></p>
 
 <hr />
 
@@ -109,7 +109,7 @@ Ganas trofeos al vencer y los pierdes al ser derrotado.</p>
 <h3 id="-tiempo-de-apertura">⏳ Tiempo de apertura</h3>
 <p>Cada cofre tiene un tiempo específico: de 3 horas a 24 horas, o puedes usar <strong>gemas</strong> para acelerarlo.</p>
 
-<p><img src="/MyBlogassets/img/imagen8.jpg" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen8.jpg" alt="jekyll" /></p>
 
 <hr />
 
@@ -127,7 +127,7 @@ Ganas trofeos al vencer y los pierdes al ser derrotado.</p>
 
 <p>Cuando alcanzas cierto nivel, entras en el sistema de <strong>ligas</strong>, donde compites por rangos cada temporada.</p>
 
-<p><img src="/MyBlogassets/img/imagen10.webp" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen10.webp" alt="jekyll" /></p>
 
 <hr />
 
@@ -165,7 +165,7 @@ Ganas trofeos al vencer y los pierdes al ser derrotado.</p>
 
 <p>Los mejores equipos y jugadores del año competían durante la temporada para clasificarse a las <strong>World Finals</strong>, el evento culminante del circuito.</p>
 
-<p><img src="/MyBlogassets/img/imagen14.jpg" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen14.jpg" alt="jekyll" /></p>
 
 <hr />
 
@@ -182,7 +182,7 @@ Ganas trofeos al vencer y los pierdes al ser derrotado.</p>
 
 <p>Supercell ha modificado el formato a lo largo de los años, pasando de <strong>competición por equipos</strong>, a <strong>competición individual</strong>, y más recientemente a un <strong>sistema híbrido basado en puntos</strong> durante toda la temporada.</p>
 
-<p><img src="/MyBlogassets/img/imagen11.jpg" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen11.jpg" alt="jekyll" /></p>
 
 <hr />
 
@@ -221,7 +221,7 @@ Gana quien resulte vencedor en dos de tres enfrentamientos.</p>
 
 <p>Supercell ha convertido cada Mundial en un espectáculo audiovisual con escenarios temáticos, producción profesional y millones de espectadores en directo.</p>
 
-<p><img src="/MyBlogassets/img/imagen12.jpeg" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen12.jpeg" alt="jekyll" /></p>
 
 <hr />
 
@@ -240,7 +240,7 @@ Gana quien resulte vencedor en dos de tres enfrentamientos.</p>
 
 <p>El resultado es un circuito profesional que se mantiene activo año tras año.</p>
 
-<p><img src="/MyBlogassets/img/imagen13.png" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen13.png" alt="jekyll" /></p>
 
 <hr />
 
@@ -258,7 +258,7 @@ Cada edición reúne lo mejor del competitivo global y demuestra que el <em>mobi
 
 <p>La <strong>tienda de Clash Royale</strong> es uno de los elementos clave del juego, ya que permite a los jugadores obtener <strong>cartas</strong>, <strong>oro</strong>, <strong>comodines</strong>, <strong>emotes</strong>, <strong>skins</strong> y otros recursos necesarios para progresar. Además, ofrece ofertas diarias que van cambiando y que suelen incluir paquetes con descuentos o recompensas exclusivas.</p>
 
-<p><img src="/MyBlogassets/img/imagen15.jpg" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen15.jpg" alt="jekyll" /></p>
 
 <hr />
 
@@ -281,7 +281,7 @@ Cada edición reúne lo mejor del competitivo global y demuestra que el <em>mobi
   <li><strong>De pago</strong>, con recompensas adicionales y ventajas exclusivas.</li>
 </ul>
 
-<p><img src="/MyBlogassets/img/imagen16.jpg" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen16.jpg" alt="jekyll" /></p>
 
 <hr />
 
@@ -298,7 +298,7 @@ Cada edición reúne lo mejor del competitivo global y demuestra que el <em>mobi
 
 <p>Aunque el juego sigue siendo <em>free-to-play</em>, una parte de la comunidad siente que la progresión gratuita es cada vez más lenta, generando debates constantes en redes y foros.</p>
 
-<p><img src="/MyBlogassets/img/imagen17.webp" alt="jekyll" /></p>
+<p><img src="/MyBlog/assets/img/imagen17.webp" alt="jekyll" /></p>
 
 <hr />
 
